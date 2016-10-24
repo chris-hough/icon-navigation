@@ -9,3 +9,7 @@ section {
   color: #fff;
   border-color: #15114c;
 }
+
+.masthead {
+  font-weight: bold;
+}
