@@ -7,6 +7,8 @@
   background-color: #15114c;
   color: #fff;
   border-color: #15114c;
+  padding-top: .1rem;
+  padding-bottom: .1rem;
 }
 
 .btn:hover {
