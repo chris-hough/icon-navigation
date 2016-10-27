@@ -10,6 +10,12 @@ section {
   border-color: #15114c;
 }
 
+.btn:hover {
+  background-color: #fff;
+  color: #000;
+  border-color: #fff;
+}
+
 .masthead {
   font-weight: bold;
 }
