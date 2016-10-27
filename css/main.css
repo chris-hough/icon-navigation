@@ -7,8 +7,6 @@
   background-color: #15114c;
   color: #fff;
   border-color: #15114c;
-  padding-top: .1rem;
-  padding-bottom: .1rem;
 }
 
 .btn:hover {
@@ -21,14 +19,11 @@ html {
   font-family: "Abhaya Libre", serif;
 }
 
-.logo {
-}
-
 h1 {
   text-align: center;
 }
 
-ul {
+.logo {
   text-align: center;
 }
 
@@ -38,7 +33,7 @@ ul {
     text-align: left;
   }
 
-  ul {
+  .logo {
     text-align: right;
   }
 }
